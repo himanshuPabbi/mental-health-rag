@@ -1,0 +1,2 @@
+vectorstore/full_mental_health_index/index.faiss filter=lfs diff=lfs merge=lfs -text
+vectorstore/full_mental_health_index/index.pkl filter=lfs diff=lfs merge=lfs -text
